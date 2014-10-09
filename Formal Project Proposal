@@ -1,0 +1,68 @@
+
+
+
+Project Renovatio
+Electric Motorcycle Conversion
+
+
+
+
+Project Proposal
+
+
+
+
+
+
+
+Patrick Walter				Lee Wu					Qin Chen
+GOAL
+		The goal of this project is to covert a gasoline motorcycle into a 100% “production ready” electric motorcycle. The primary end of this goal is to raise awareness of the viability of electric transportation. In accomplishing this, we can take one step forward towards a more energy independent future.
+
+METHODOLOGY
+		A 1993 Honda CBR600F2 gasoline motorcycle was used as the base for this conversion project. The motorcycle was stripped of all of its internal combustion engine components and retrofitted with dual brushless, direct current hub motors inside the real wheel. Now, with just a rolling chassis and hub motor, the electric motorcycle will be built by redesigning the motorcycle with the new electric components.
+
+INDUSTRY STANDARDS
+		Currently, there exist two companies who successfully sell electric motorcycle. The first is Brammo whose flagship motorcycle is called the Brammo Empulse R. This motorcycle uses an alternating current motor that feeds into a transmission and finally to the rear wheel via a chain. It weighs 460 pounds, has a top speed of 110mph and is capable of 53 miles on the highway. All of those specs will cost a grand total of $18,995.
+ 
+2013 Brammo Empulse R
+
+The second electric motorcycle company is Zero Motorcycles. Zero focuses their design into light, fast and dirt-bike looking motorcycles. The Zero SR is one of their faster motorcycles with a top speed of 102mph and just weighing in at 414 pounds. Accompanying these specifications is a city range of 151 miles and a highway range of 94 miles. This bike has a retail price tag of $17,345.00.
+ 
+Zero Motorcycles, 2013 Zero SR
+
+
+ITERATION OR INNOVATION?
+		This electric motorcycle project may not be the first of its kind, but it brings something to the table that no other production motorcycle features: hub motors. Hub motors are advantageous because they free up valuable space within the chassis. This in turn allows for more batteries to be installed in the chassis, which leads to longer range and faster acceleration. Another advantage of the hub motors is the elimination of the chain. This cuts down both on maintenance and on noise pollution. 
+
+PROTOTYPING
+		The timeline for prototyping consists of the completion of several major mile markers. These mile markers in chronological order are: frame reinforcement, battery box construction, motor controller mounting, low voltage system. As these tasks are completed, testing will be performed. For example, once the battery box is completed, the entire drive train will be tested.
+
+TIMELINE
+		Mechanical engineering students have been recruited to assist with the reinforcement of the motorcycle frame and construction of the battery boxes. The timeline below is divided into the tasks that will be assigned to the mechanical engineers and computer engineers.
+Mechanical Engineers
+Motorcycle Frame Reinforcement			December 2014
+Battery Box Construction				December 2014
+Motor Controller Mounting				December 2014
+Computer Engineers
+Purchase of 144Volt DC PSU				October 2014
+Wheel Spin Test					November 2014
+Substituting PSU for Batteries
+Pre-charge Circuit					November 2014
+Low Voltage System Design and Purchasing	December 2014
+Integrated Monitoring System			February 2015
+Arduino, Sensor and harness purchase	December 2014
+Liquid Motor Cooling				March 2015
+Pump, Reservoir, Radiator purchase	February 2015
+Lights, Turn Signals Display				April 2015
+
+
+BUGDET
+		The projected grand total budget is approximately $20,000. The initial investment is totaled at $15,881.00, which leaves approximately $4,000.00 in required budgeting. The primary components that still need to be acquired are 
+Battery Management System: Orion BMS - $1,205.00
+Charger: Eltek or Elcon - 			$1,500.00
+Battery Box: polycarbonate, welding, etc. - $500.00
+
+THIS IS THE FUTURE
+		In the end, this project is an attempt to change our fundamental concept of transportation and energy. For over 100 years the large majority of the world has relied on fossils fuels to get from point A to point B. In the process, we have scarred our planet with pollution, clouding the skies of our major cities like Beijing and threating wildlife worldwide.
+		We are on the cusp of an energy revolution that will tend toward renewable sources. However, this cannot become a reality without the demand for renewable energies. This demand will rise with the advent of electric vehicles. In closing, Project Renovatio is just one step closer to a cleaner, better future.
